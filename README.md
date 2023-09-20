@@ -1,7 +1,7 @@
 # NugetSpider
 
 #### 介绍
-从nuget网站批量下载package
+从nuget.org网站批量下载nupkg包。在nuget.txt文本内输入需要下载的package包名，运行编译好的NugetSpider.exe文件，程序会从nuget.org获取package的所有版本信息，并下载所有版本nupkg包，下载文件存储在根目录packages文件见下。
 
 #### 软件架构
 软件架构说明

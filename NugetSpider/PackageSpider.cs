@@ -199,8 +199,6 @@ namespace NugetSpider
                 }
 
                 Task.WaitAll(tasks.ToArray());
-
-
             }
 
             public async Task DownloadFile(HttpClient httpClient, string fileUrl)

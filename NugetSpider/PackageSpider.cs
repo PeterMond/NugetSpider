@@ -64,7 +64,6 @@ namespace NugetSpider
                         packages.Add(content.Trim());
                     }
                 }
-
             }
 
             //拼接url，从nuget获取package的所有版本

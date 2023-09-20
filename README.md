@@ -9,15 +9,19 @@
 
 #### 安装教程
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+1.  直接编译代码
 
 #### 使用说明
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+1. 在nuget.txt填写需要下载的包名
+
+2. 运行NugetSpider.exe程序
+
+   <img src=".\images\nuget-1.png" style="zoom:75%;" />
+
+3. 在根目录packages文件下查看下载的nupkg包
+
+   <img src=".\images\nuget-2.png" style="zoom:75%;" />
 
 #### 参与贡献
 

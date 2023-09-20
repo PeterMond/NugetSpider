@@ -16,12 +16,10 @@
 1. 在nuget.txt填写需要下载的包名
 
 2. 运行NugetSpider.exe程序
-
-   <img src="https://gitee.com/Peter_Mond/nuget-spider/blob/master/images/nuget-1.png" style="zoom:75%;" />
+    ![输入图片说明](images/nuget-1.png)
 
 3. 在根目录packages文件下查看下载的nupkg包
-
-   <img src="https://gitee.com/Peter_Mond/nuget-spider/blob/master/images/nuget-2.png" style="zoom:75%;" />
+    ![输入图片说明](images/nuget-2.png)
 
 #### 参与贡献
 
